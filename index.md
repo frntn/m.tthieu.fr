@@ -1,5 +1,6 @@
 ---
 layout: default
+title: frntn
 ---
 
 ## keybase.io/frntn
