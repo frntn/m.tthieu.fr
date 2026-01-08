@@ -3,10 +3,12 @@ layout: default
 title: frntn
 ---
 
-## keybase.io/frntn
-## github.com/frntn
-## twitter.com/frntn
+## linkedin.com/in/frntn
+## frntn.substack.com
 ## medium.com/@frntn
+## github.com/frntn
+## keybase.io/frntn
+## x.com/frntn
 
 <!--
 ## Articles
